@@ -23,7 +23,7 @@ Um gerador de senhas seguras com uma interface gráfica escrita em Python. O pro
 
    ```sh
    git clone https://github.com/f4kie/passwordcraft.git
-   cd PasswordGenerator
+   cd passwordcraft
    ```
 
 2. Instale as dependências do projeto (se houver):
@@ -37,7 +37,7 @@ Um gerador de senhas seguras com uma interface gráfica escrita em Python. O pro
 Para executar o gerador de senhas, use o seguinte comando:
 
 ```sh
-python -m PasswordGenerator.gui
+python -m passwordcraft.gui
 ```
 
 A interface gráfica será aberta, permitindo que você configure os parâmetros da senha e gere uma senha segura.

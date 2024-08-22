@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="PasswordGenerator",
-    version="1.0.0",
+    version="1.0",
     description="A secure password generator with a graphical user interface.",
     author="Your Name",
     author_email="youremail@example.com",
